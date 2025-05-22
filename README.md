@@ -4,7 +4,7 @@
 
 ## 🎥 Demo
 
-<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/57899804/446509762-c243138e-b1e8-4e26-888f-7bf6c5f6985a.MP4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250522T100221Z&X-Amz-Expires=300&X-Amz-Signature=85246dd0a26401f2c6e459475a4103f929b9c03966a358eab0f9d840401a5f10&X-Amz-SignedHeaders=host" controls width="50%"></video>
+<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/57899804/446513000-7b4ef835-bece-4f88-8aa5-6c4a836bb52a.MP4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250522T101100Z&X-Amz-Expires=300&X-Amz-Signature=4147f52c22474d67bde0bdd3c389e3b4fc227b4f6d0c80223d991d06031e02da&X-Amz-SignedHeaders=host" controls width="50%"></video>
 
 ## Project Overview
 
